@@ -1,5 +1,24 @@
-# Vue 3 + Vite
+# Movie Reviews – Frontend (Vue 3 + Vite)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is the **frontend** for the Movie Review Site, built with **Vue 3, Vite, and Axios**. It connects to a **Strapi Headless CMS** to dynamically fetch and display movie reviews.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## Project Overview
+
+- Lists movie reviews pulled from the Strapi backend
+- Includes search functionality
+- Displays movie poster, rating, and publish date
+- Uses Vue Router to show full details for each review
+- Fully responsive layout
+
+---
+
+## ech Stack
+
+- **Vue 3**  
+- **Vite**  
+- **Vue Router**  
+- **Axios**  
+- **Custom CSS**
+
